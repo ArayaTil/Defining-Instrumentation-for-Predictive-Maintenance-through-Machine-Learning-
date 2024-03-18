@@ -1,4 +1,4 @@
-# Hydraulic-Rig-Condition-Monitoring
+# Quantifying Cooler Efficiency for Predictive Maintenance
 This is an application of machine learning to explore and potentially identify instrumentation(s) that 
 can quantify/predict the efficicency of a cooler on a hydraulic rig with minimal error. The hydraulic rig, 
 equipped with redundant instrumentation, was setup for a test run under different load conditions. Different levels of
