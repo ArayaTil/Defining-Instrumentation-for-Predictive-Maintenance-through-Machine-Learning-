@@ -4,6 +4,6 @@ can quantify/predict the efficicency of a cooler on a hydraulic rig with minimal
 equipped with redundant instrumentation, was setup for a test run under different load conditions. Different levels of
 faults were introduced to the four components of the rig under different combinational scenarios to collect
 data at various points on the rig. The collected data was shared online at https://archive.ics.uci.edu/,
-“Condition Monitoring of Hydraulic Systems”.
+under the title “Condition Monitoring of Hydraulic Systems”.
 
 Please refer to the related article and python code for details.
